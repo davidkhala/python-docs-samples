@@ -1,0 +1,1433 @@
+repo_name: davidkhala/python-docs-samples
+report_id: 68170de3af30e322a1588a570a689cf7
+repo_type: Public
+timestamp: '2023-11-17T00:56:41+00:00'
+requested_by: m-strzelczyk
+provider: github
+branch: main
+detected_tools_count: 99
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source: Repo Metadata
+- name: Markdown
+  description: Text-to-HTML conversion tool/syntax for web writers, by John Gruber
+  website_url: http://daringfireball.net/projects/markdown/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1147/markdown.png
+  detection_source: run/markdown-preview/renderer/requirements.txt
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-04-19 13:43:52.000000000 Z
+- name: PureBasic
+  description: A powerful BASIC programming language
+  website_url: https://www.purebasic.com/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/10734/New_Project__2_.jpg
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source: Repo Metadata
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source: monitoring/prometheus/requirements.txt
+  last_updated_by: Yuri Grinshteyn
+  last_updated_on: 2021-02-26 21:13:44.000000000 Z
+- name: SQL
+  description: It is a domain-specific language used in programming
+  website_url: https://en.wikipedia.org/wiki/SQL
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source: bigquery/bqml/resources/training_data_query.sql
+  last_updated_by: Alix Hamilton
+  last_updated_on: 2018-09-17 19:38:34.000000000 Z
+- name: Swift
+  description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
+  website_url: https://developer.apple.com/swift/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source: run/image-processing/Dockerfile
+  last_updated_by: Dina Graves Portman
+  last_updated_on: 2019-11-01 21:05:59.000000000 Z
+- name: Django
+  description: The Web framework for perfectionists with deadlines
+  website_url: https://www.djangoproject.com/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/994/4aGjtNQv.png
+  detection_source: run/django/requirements.txt
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-06-12 19:09:43.000000000 Z
+- name: Flask
+  description: A microframework for Python based on Werkzeug, Jinja 2 and good intentions
+  website_url: http://flask.pocoo.org/
+  version: 2.1.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1001/default_6d109315b60108628b7cd3e159b84645c31ef0e2.png
+  detection_source_url: appengine/flexible/analytics/requirements.txt
+  detection_source: trace/trace-python-sample-opentelemetry/requirements.txt
+  last_updated_by: Ace Nassri
+  last_updated_on: 2022-05-02 20:09:22.000000000 Z
+- name: Matplotlib
+  description: A plotting library for the Python programming language
+  website_url: http://matplotlib.org
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Charting Libraries
+  image_url: https://img.stackshare.io/service/2993/2DZC4KaA_400x400.jpg
+  detection_source: notebooks/requirements.txt
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-06-26 18:02:04.000000000 Z
+- name: Plotly.js
+  description: A high-level, declarative charting library
+  website_url: https://plot.ly/javascript
+  version: 5.15.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Charting Libraries
+  image_url: https://img.stackshare.io/service/2385/default_86d9af5b442d21446483d9bae3af24a4cee7d792.png
+  detection_source_url: people-and-planet-ai/land-cover-classification/requirements.txt
+  detection_source: people-and-planet-ai/weather-forecasting/tests/predictions_tests/requirements.txt
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-06-12 14:23:16.000000000 Z
+- name: Protobuf
+  description: Google's data interchange format
+  website_url: https://developers.google.com/protocol-buffers/
+  version: 4.23.3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Serialization Frameworks
+  image_url: https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png
+  detection_source_url: functions/v2/firebase/hello-firestore/requirements.txt
+  detection_source: functions/v2/firebase/upper-firestore/requirements.txt
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-07-01 17:10:59.000000000 Z
+- name: Apache Spark
+  description: Fast and general engine for large-scale data processing
+  website_url: https://spark.apache.org/
+  version: 3.4.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Big Data Tools
+  image_url: https://img.stackshare.io/service/2220/ca72c4715da998b0bf5d1c857958bed3.png
+  detection_source_url: pubsublite/spark-connector/requirements.txt
+  detection_source: pubsublite/spark-connector/requirements.txt
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-07-01 17:11:23.000000000 Z
+- name: Azure Storage
+  description: Reliable, economical cloud storage for data big and small
+  website_url: http://azure.microsoft.com/en-us/services/storage/
+  open_source: false
+  hosted_saas: true
+  category: Data Stores
+  sub_category: Cloud Storage
+  image_url: https://img.stackshare.io/service/2099/azureStorage.png
+  detection_source: storagetransfer/requirements-test.txt
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-06-13 18:18:12.000000000 Z
+- name: Cloud Firestore
+  description: NoSQL database built for global apps
+  website_url: https://firebase.google.com/products/firestore/
+  open_source: false
+  hosted_saas: true
+  category: Data Stores
+  sub_category: NoSQL Database as a Service
+  image_url: https://img.stackshare.io/service/7696/Untitled-5.png
+  detection_source: functions/v2/firebase/upper-firestore/requirements.txt
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-04-28 14:27:51.000000000 Z
+- name: Google BigQuery
+  description: Analyze terabytes of data in seconds
+  website_url: https://cloud.google.com/bigquery/what-is-bigquery
+  open_source: false
+  hosted_saas: true
+  category: Data Stores
+  sub_category: Big Data as a Service
+  image_url: https://img.stackshare.io/service/695/BigQuery.png
+  detection_source: securitycenter/snippets/requirements-test.txt
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-06-14 17:13:49.000000000 Z
+- name: Google Cloud Bigtable
+  description: The same database that powers Google Search, Gmail and Analytics
+  website_url: https://cloud.google.com/bigtable/
+  open_source: false
+  hosted_saas: true
+  category: Data Stores
+  sub_category: NoSQL Database as a Service
+  image_url: https://img.stackshare.io/service/2977/Cloud-Bigtable.png
+  detection_source: functions/bigtable/requirements.txt
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-06-12 18:44:59.000000000 Z
+- name: Google Cloud Datastore
+  description: A Fully Managed NoSQL Data Storage Service
+  website_url: https://cloud.google.com/datastore/
+  open_source: false
+  hosted_saas: true
+  category: Data Stores
+  sub_category: NoSQL Database as a Service
+  image_url: https://img.stackshare.io/service/2754/google_cloud_datastore.png
+  detection_source: dlp/snippets/requirements.txt
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-05-10 14:40:25.000000000 Z
+- name: Google Cloud Pub/Sub
+  description: Global service for real-time and reliable messaging and streaming data
+  website_url: https://cloud.google.com/pubsub/
+  open_source: false
+  hosted_saas: true
+  category: Application Hosting
+  sub_category: Realtime Backend / API
+  image_url: https://img.stackshare.io/service/6253/pubsub.png
+  detection_source: run/pubsub/requirements-test.txt
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-06-14 17:13:49.000000000 Z
+- name: Google Cloud Storage
+  description: Durable and highly available object storage service
+  website_url: https://cloud.google.com/products/cloud-storage/
+  open_source: false
+  hosted_saas: true
+  category: Data Stores
+  sub_category: Cloud Storage
+  image_url: https://img.stackshare.io/service/694/Cloud_Storage.png
+  detection_source: vision/snippets/product_search/requirements.txt
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-06-13 18:18:12.000000000 Z
+- name: MQTT
+  description: A machine-to-machine Internet of Things connectivity protocol
+  website_url: http://mqtt.org/
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Message Queue
+  image_url: https://img.stackshare.io/service/3670/mqtticon-large_400x400.png
+  detection_source: iot/api-client/mqtt_example/requirements.txt
+  last_updated_by: WhiteSource Renovate
+  last_updated_on: 2022-09-30 18:00:48.000000000 Z
+- name: MySQL
+  description: The world's most popular open source database
+  website_url: http://www.mysql.com
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1025/logo-mysql-170x170.png
+  detection_source: cloud-sql/mysql/sqlalchemy/requirements.txt
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-03-29 14:54:21.000000000 Z
+- name: Redis
+  description: Open source (BSD licensed), in-memory data structure store
+  website_url: http://redis.io/
+  version: 4.5.4
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: In-Memory Databases
+  image_url: https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png
+  detection_source_url: appengine/standard/migration/memorystore/requirements.txt
+  detection_source: memorystore/redis/requirements.txt
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-04-11 21:10:47.000000000 Z
+- name: SQLAlchemy
+  description: The Python SQL Toolkit and Object Relational Mapper
+  website_url: http://www.sqlalchemy.org/
+  version: 2.0.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Object Relational Mapper (ORM)
+  image_url: https://img.stackshare.io/service/1839/q5uAkmy7.png
+  detection_source_url: appengine/standard_python3/cloudsql/requirements.txt
+  detection_source: run/idp-sql/requirements.txt
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-04-21 21:07:05.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: Google Cloud Build
+  description: Continuously build, test, and deploy.
+  website_url: https://cloud.google.com/cloud-build
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Deployment
+  image_url: https://img.stackshare.io/service/9309/PoHJY3K8_400x400.jpg
+  detection_source: run/image-processing/cloudbuild.yaml
+  last_updated_by: Shubha Rajan
+  last_updated_on: 2020-05-19 19:32:14.000000000 Z
+- name: Gunicorn
+  description: A Python WSGI HTTP Server for UNIX
+  website_url: http://gunicorn.org/
+  version: 20.1.0
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Web Servers
+  image_url: https://img.stackshare.io/service/1091/gunicorn.png
+  detection_source_url: appengine/flexible/analytics/requirements.txt
+  detection_source: trace/cloud-trace-demo-app-opentelemetry/app/requirements.txt
+  last_updated_by: WhiteSource Renovate
+  last_updated_on: 2021-03-27 06:28:01.000000000 Z
+- name: Kubernetes
+  description: Manage a cluster of Linux containers as a single system to accelerate
+    Dev and simplify Ops
+  website_url: http://kubernetes.io/
+  version: 11.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Container Tools
+  image_url: https://img.stackshare.io/service/1885/21_d3cvM.png
+  detection_source_url: composer/airflow_1_samples/requirements.txt
+  detection_source: composer/airflow_1_samples/requirements.txt
+  last_updated_by: Leah E. Cole
+  last_updated_on: 2021-09-21 20:30:10.000000000 Z
+- name: OpenCensus
+  description: A single distribution of libraries that automatically collect traces
+    and send them to any backend
+  website_url: https://opencensus.io/
+  open_source: false
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Performance Monitoring
+  image_url: https://img.stackshare.io/service/10794/EpBd2Xrw_400x400.jpg
+  detection_source: opencensus/requirements.txt
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-04-17 16:27:10.000000000 Z
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source: storagetransfer/requirements-test.txt
+  last_updated_by: WhiteSource Renovate
+  last_updated_on: 2022-03-03 22:32:51.000000000 Z
+- name: RubyGems
+  description: Easily download, install, and use ruby software packages on your system
+  website_url: https://rubygems.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source: monitoring/prometheus/requirements.txt
+  last_updated_by: Yuri Grinshteyn
+  last_updated_on: 2021-02-26 21:13:44.000000000 Z
+- name: Selenium
+  description: Web Browser Automation
+  website_url: http://www.seleniumhq.org/
+  version: 4.10.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Browser Testing
+  image_url: https://img.stackshare.io/service/1517/sbUizSli_400x400.jpg
+  detection_source_url: recaptcha_enterprise/snippets/requirements-test.txt
+  detection_source: recaptcha_enterprise/snippets/requirements-test.txt
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-06-12 19:39:11.000000000 Z
+- name: isort
+  description: " A Python utility / library to sort imports"
+  website_url: https://pycqa.github.io/isort/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/4835/default_0a87fe83d3c6dc2bd452e7bf2428b32269c080d2.png
+  detection_source: compute/client_library/requirements.txt
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-04-18 15:11:21.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source: recaptcha_enterprise/snippets/requirements-test.txt
+  last_updated_by: Sampath Kumar
+  last_updated_on: 2023-02-28 18:33:40.000000000 Z
+- name: pytest
+  description: A full-featured Python testing tool to help you write better programs
+  website_url: http://pytest.org/latest/
+  version: 7.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/4586/Lu99Qe0Z_400x400.png
+  detection_source_url: appengine/flexible/analytics/requirements-test.txt
+  detection_source: workflows/cloud-client/requirements-test.txt
+  last_updated_by: WhiteSource Renovate
+  last_updated_on: 2022-03-03 22:32:51.000000000 Z
+- name: uWSGI
+  description: uWSGI application server container
+  website_url: https://github.com/unbit/uwsgi
+  version: 2.0.21
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Web Server Interface
+  image_url: https://img.stackshare.io/service/1838/uwsgi.png
+  detection_source_url: appengine/standard_python3/custom-server/requirements.txt
+  detection_source: appengine/standard_python3/custom-server/requirements.txt
+  last_updated_by: Ace Nassri
+  last_updated_on: 2022-03-31 23:27:15.000000000 Z
+- name: Google Cloud Vision API
+  description: Understand the content of an image by encapsulating powerful machine
+    learning models
+  website_url: https://cloud.google.com/vision/
+  open_source: false
+  hosted_saas: true
+  category: Assets and Media
+  sub_category: Image Analysis API
+  image_url: https://img.stackshare.io/service/4048/vision_api.png
+  detection_source: bigquery/remote-function/vision/requirements-test.txt
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-06-13 13:59:17.000000000 Z
+- name: Here Maps
+  description: An app that makes city navigation effortless whether you need a taxi,
+    public transportation or drive on your own
+  website_url: http://here.com/
+  open_source: false
+  hosted_saas: true
+  category: Application Utilities
+  sub_category: Mapping APIs
+  image_url: https://img.stackshare.io/service/5500/FyXhxpvJ_400x400.png
+  detection_source: run/idp-sql/Dockerfile
+  last_updated_by: Averi Kitsch
+  last_updated_on: 2019-04-18 19:54:56.000000000 Z
+- name: Pillow
+  description: Python Imaging Library
+  website_url: https://python-pillow.github.io/
+  open_source: true
+  hosted_saas: false
+  category: Assets and Media
+  sub_category: Image Processing and Management
+  image_url: https://img.stackshare.io/service/2375/default_1f67b0ca7416a9f52beb655f90b5602d5ef74b75.jpg
+  detection_source: dataflow/gpu-examples/tensorflow-landsat/requirements.txt
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-07-02 14:20:40.000000000 Z
+- name: Twilio
+  description: Bring voice and messaging to your web and mobile applications.
+  website_url: http://www.twilio.com
+  open_source: false
+  hosted_saas: true
+  category: Communications
+  sub_category: Voice and SMS
+  image_url: https://img.stackshare.io/service/130/VrwpNfjh_400x400.png
+  detection_source: appengine/flexible_python37_and_earlier/twilio/requirements.txt
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-05-18 17:31:05.000000000 Z
+- name: Twilio SendGrid
+  description: Email Delivery. Simplified.
+  website_url: http://sendgrid.com
+  open_source: false
+  hosted_saas: true
+  category: Communications
+  sub_category: Transactional Email
+  image_url: https://img.stackshare.io/service/43/kQ_6nwmP.jpg
+  detection_source: appengine/standard/sendgrid/requirements.txt
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-03-25 17:17:07.000000000 Z
+- name: CocoaPods
+  description: A dependency manager for Swift and Objective-C Cocoa projects
+  website_url: https://cocoapods.org/
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: CocoaPods Packages
+  image_url: https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png
+  detection_source: run/image-processing/Dockerfile
+  last_updated_by: Dina Graves Portman
+  last_updated_on: 2019-11-01 21:05:59.000000000 Z
+- name: Debian
+  description: The Universal Operating System
+  website_url: https://www.debian.org/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/1656/vd4gAekh.png
+  detection_source: memorystore/redis/gke_deployment/Dockerfile
+  last_updated_by: Christophe Taton
+  last_updated_on: 2018-05-23 19:51:55.000000000 Z
+- name: HTML
+  description: Hypertext Markup Language for creating web pages.
+  website_url: http://
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source: appengine/flexible/multiple_services/static-service/static/index.html
+  last_updated_by: travisoneill
+  last_updated_on: 2016-10-11 17:12:16.000000000 Z
+- name: IPython
+  description: A command shell for interactive computing in multiple programming languages
+  website_url: http://ipython.org/index.html
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Shells
+  image_url: https://img.stackshare.io/service/4477/820a0bb9a44fe5a1d640993ab1e6fd84_400x400.png
+  detection_source: bigquery/datalab-migration/requirements.txt
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-06-12 19:52:05.000000000 Z
+- name: Jupyter
+  description: Multi-language interactive computing environments.
+  website_url: http://jupyter.org
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Data Science Notebooks
+  image_url: https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg
+  detection_source: Repo Metadata
+- name: NumPy
+  description: Fundamental package for scientific computing with Python
+  website_url: http://www.numpy.org/
+  version: 1.24.3
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Data Science Tools
+  image_url: https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png
+  detection_source_url: appengine/flexible/numpy/requirements.txt
+  detection_source: language/snippets/classify_text/requirements.txt
+  last_updated_by: WhiteSource Renovate
+  last_updated_on: 2021-03-27 06:28:01.000000000 Z
+- name: Pandas
+  description: High-performance, easy-to-use data structures and data analysis tools
+    for the Python programming language
+  website_url: http://pandas.pydata.org/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Data Science Tools
+  image_url: https://img.stackshare.io/service/2180/1284191.png
+  detection_source: generative_ai/requirements.txt
+  last_updated_by: nicain
+  last_updated_on: 2023-05-11 19:10:56.000000000 Z
+- name: SciPy
+  description: Scientific Computing Tools for Python
+  website_url: http://www.scipy.org
+  version: 1.10.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Data Science Tools
+  image_url: https://img.stackshare.io/service/3303/scipyshiny_small.png
+  detection_source_url: appengine/flexible/scipy/requirements.txt
+  detection_source: composer/workflows/requirements.txt
+  last_updated_by: WhiteSource Renovate
+  last_updated_on: 2021-03-27 06:28:01.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source: Repo Metadata
+- name: TensorFlow
+  description: Open Source Software Library for Machine Intelligence
+  website_url: https://www.tensorflow.org
+  version: 2.12.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Machine Learning Tools
+  image_url: https://img.stackshare.io/service/4717/FtFnqC38_400x400.png
+  detection_source_url: ml_engine/online_prediction/requirements.txt
+  detection_source: people-and-planet-ai/timeseries-classification/requirements.txt
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-06-26 16:13:09.000000000 Z
+- name: Ubuntu
+  description: The leading OS for PC, tablet, phone and cloud
+  website_url: http://www.ubuntu.com/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/3511/cof_orange_hex.jpg
+  detection_source: dataflow/custom-containers/ubuntu/Dockerfile
+  last_updated_by: David Cavazos
+  last_updated_on: 2022-07-27 16:33:34.000000000 Z
+- name: Werkzeug
+  website_url: https://palletsprojects.com/p/werkzeug/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/11076/iwoLyNPI_normal.jpg
+  detection_source: appengine/standard/flask/tutorial/requirements.txt
+  last_updated_by: WhiteSource Renovate
+  last_updated_on: 2021-05-14 01:17:54.000000000 Z
+- name: WebTest
+  description: Helper to test WSGI applications
+  package_url: https://pypi.org/WebTest
+  version: 2.0.35
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20570/default_c0168195ccd784fb0b83e7f7661959455719049b.png
+  detection_source_url: appengine/standard/blobstore/blobreader/requirements-test.txt
+  detection_source: appengine/standard/storage/appengine-client/requirements-test.txt
+  last_updated_by: WhiteSource Renovate
+  last_updated_on: 2021-08-19 18:33:36.000000000 Z
+- name: apache-airflow
+  description: Programmatically author
+  package_url: https://pypi.org/apache-airflow
+  version: 2.5.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20810/default_2f5e681bc003054d9b4d4dce47b5862e8bef9594.png
+  detection_source_url: composer/2022_airflow_summit/requirements.txt
+  detection_source: composer/dag_test_utils/setup.py
+  last_updated_by: Leah E. Cole
+  last_updated_on: 2023-05-03 15:16:51.000000000 Z
+  vulnerabilities:
+  - name: Apache Airflow vulnerable to Privilege Context Switching Error
+    cve_id: CVE-2023-25754
+    cve_url: https://github.com/advisories/GHSA-jchm-fm4q-c2fp
+    detected_date: May 12
+    severity: critical
+    first_patched: 2.6.0
+  - name: Apache Airflow denial of service vulnerability
+    cve_id: CVE-2023-37379
+    cve_url: https://github.com/advisories/GHSA-x2mh-8fmc-rqgh
+    detected_date: Aug 25
+    severity: high
+    first_patched: 2.7.0
+  - name: Apache Airflow Session Fixation vulnerability
+    cve_id: CVE-2023-40273
+    cve_url: https://github.com/advisories/GHSA-pm87-24wq-r8w9
+    detected_date: Aug 24
+    severity: high
+    first_patched: 2.7.0
+  - name: Apache Airflow Execution with Unnecessary Privileges
+    cve_id: CVE-2023-39508
+    cve_url: https://github.com/advisories/GHSA-269x-pg5c-5xgm
+    detected_date: Aug 10
+    severity: high
+    first_patched: 2.6.0
+  - name: Apache Airflow Celery provider Insertion of Sensitive Information into Log
+      File vulnerability
+    cve_id: CVE-2023-46215
+    cve_url: https://github.com/advisories/GHSA-666g-rfc5-c9jv
+    detected_date: Nov 9
+    severity: high
+    first_patched: 2.7.0
+  - name: Apache Airflow Incorrect Authorization vulnerability
+    cve_id: CVE-2023-40611
+    cve_url: https://github.com/advisories/GHSA-wpg8-mf6h-gm92
+    detected_date: Sep 13
+    severity: moderate
+    first_patched: 2.7.1
+  - name: Sensitive Information in Error Messages in Apache Airflow
+    cve_id: CVE-2023-25695
+    cve_url: https://github.com/advisories/GHSA-h6g5-wqqr-3mw3
+    detected_date: Mar 17
+    severity: moderate
+    first_patched: 2.5.2
+  - name: Apache Airflow vulnerable to sensitive information exposure
+    cve_id: CVE-2023-42663
+    cve_url: https://github.com/advisories/GHSA-32wr-qqw6-5mfp
+    detected_date: Oct 17
+    severity: moderate
+    first_patched: 2.7.2
+  - name: Apache Airflow missing Certificate Validation
+    cve_id: CVE-2023-39441
+    cve_url: https://github.com/advisories/GHSA-5f35-pq34-c87q
+    detected_date: Aug 25
+    severity: moderate
+    first_patched: 2.7.0
+  - name: Apache Airflow vulnerable to exposure of sensitive information
+    cve_id: CVE-2023-35005
+    cve_url: https://github.com/advisories/GHSA-mjff-wv85-hmcj
+    detected_date: Jun 20
+    severity: moderate
+    first_patched: 2.6.2
+  - name: Apache Airflow vulnerable to Exposure of Sensitive Information
+    cve_id: CVE-2023-46288
+    cve_url: https://github.com/advisories/GHSA-9qqg-mh7c-chfq
+    detected_date: Oct 24
+    severity: moderate
+    first_patched: 2.7.2
+  - name: Apache Airflow vulnerable to stored Cross-site Scripting
+    cve_id: CVE-2023-29247
+    cve_url: https://github.com/advisories/GHSA-vcf6-3wv2-5vcr
+    detected_date: May 9
+    severity: moderate
+    first_patched: 2.6.0
+  - name: Apache Airflow vulnerable to Exposure of Sensitive Information to an Unauthorized
+      Actor
+    cve_id: CVE-2023-42781
+    cve_url: https://github.com/advisories/GHSA-r7x6-xfcm-3mxv
+    detected_date: Nov 15
+    severity: moderate
+    first_patched: 2.7.3
+  - name: Apache Airflow vulnerable to sensitive information exposure when users list
+      warnings for all DAGs
+    cve_id: CVE-2023-42780
+    cve_url: https://github.com/advisories/GHSA-cgx2-rrmr-jx43
+    detected_date: Oct 17
+    severity: moderate
+    first_patched: 2.7.2
+  - name: Apache Airflow Improper Input Validation vulnerability
+    cve_id: CVE-2023-36543
+    cve_url: https://github.com/advisories/GHSA-3h4m-m55v-gx4m
+    detected_date: Jul 13
+    severity: moderate
+    first_patched: 2.6.3
+  - name: Apache Airflow Path Traversal vulnerability
+    cve_id: CVE-2023-22887
+    cve_url: https://github.com/advisories/GHSA-ggwr-4vr8-g7wv
+    detected_date: Jul 13
+    severity: moderate
+    first_patched: 2.6.3
+  - name: Apache Airflow Incorrect Authorization vulnerability
+    cve_id: CVE-2023-35908
+    cve_url: https://github.com/advisories/GHSA-2h84-3crq-vgfj
+    detected_date: Jul 13
+    severity: moderate
+    first_patched: 2.6.3
+  - name: Apache Airflow information disclosure vulnerability
+    cve_id: CVE-2022-46651
+    cve_url: https://github.com/advisories/GHSA-xvw9-3mhm-xjqq
+    detected_date: Jul 13
+    severity: moderate
+    first_patched: 2.6.3
+  - name: Apache Airflow information exposure vulnerability
+    cve_id: CVE-2023-40712
+    cve_url: https://github.com/advisories/GHSA-mjqh-v5f2-g2mw
+    detected_date: Sep 13
+    severity: moderate
+    first_patched: 2.7.1
+  - name: Apache Airflow vulnerable to privilege escalation
+    cve_id: CVE-2023-42792
+    cve_url: https://github.com/advisories/GHSA-j3w8-2p2h-mrr9
+    detected_date: Oct 17
+    severity: moderate
+    first_patched: 2.7.2
+  - name: Apache Airflow Improper Input Validation vulnerability
+    cve_id: CVE-2023-22888
+    cve_url: https://github.com/advisories/GHSA-5946-8p38-vffp
+    detected_date: Jul 21
+    severity: moderate
+    first_patched: 2.6.3
+  - name: Apache Airflow allows authenticated and DAG-view authorized users to modify
+      some DAG run detail values when submitting notes
+    cve_id: CVE-2023-47037
+    cve_url: https://github.com/advisories/GHSA-hm9r-7f84-25c9
+    detected_date: Nov 14
+    severity: moderate
+    first_patched: 2.7.3
+- name: azure-storage-blob
+  description: Microsoft Azure Blob Storage Client Library for Python
+  package_url: https://pypi.org/azure-storage-blob
+  version: 12.16.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20246/default_79c7a01488eebdf30ca22b7316d9f77bbe7fad8b.png
+  detection_source_url: storagetransfer/requirements-test.txt
+  detection_source: storagetransfer/requirements-test.txt
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-06-13 18:18:12.000000000 Z
+- name: backoff
+  description: Function decoration for backoff and retry
+  package_url: https://pypi.org/backoff
+  version: 2.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19988/default_aa331bbc48e2faa54aa26e08880b772595f833b8.png
+  detection_source_url: appengine/standard_python3/bundled-services/blobstore/django/requirements-test.txt
+  detection_source: vision/snippets/detect/requirements-test.txt
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-04-19 13:47:29.000000000 Z
+- name: black
+  description: The uncompromising code formatter
+  package_url: https://pypi.org/black
+  version: 23.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20099/default_029b9bbfb6be2cd34bebeda5b8e1e80a1d22441c.png
+  detection_source_url: compute/client_library/requirements.txt
+  detection_source: compute/client_library/requirements.txt
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-03-29 14:30:01.000000000 Z
+- name: bleach
+  description: An easy safelist-based HTML-sanitizing tool
+  package_url: https://pypi.org/bleach
+  version: 6.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20045/default_b0b684477aefb2da4c92a4bafd91d26e16511cd1.png
+  detection_source_url: run/markdown-preview/renderer/requirements.txt
+  detection_source: run/markdown-preview/renderer/requirements.txt
+  last_updated_by: Karl Weinmeister
+  last_updated_on: 2023-02-02 19:22:30.000000000 Z
+- name: boto3
+  description: The AWS SDK for Python
+  package_url: https://pypi.org/boto3
+  version: 1.26.150
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19840/default_1c41e593803157c668b26f27387160254f0f5371.png
+  detection_source_url: iam/api-client/requirements.txt
+  detection_source: storagetransfer/requirements-test.txt
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-07-01 14:51:36.000000000 Z
+- name: click
+  description: Composable command line interface toolkit
+  package_url: https://pypi.org/click
+  version: 8.1.3
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19830/default_74a61b43bdb9fc0cba2978316b9976f43545029b.png
+  detection_source_url: run/deployment-previews/requirements.txt
+  detection_source: run/deployment-previews/requirements.txt
+  last_updated_by: WhiteSource Renovate
+  last_updated_on: 2022-04-28 19:16:52.000000000 Z
+- name: cryptography
+  description: Cryptography is a package which provides cryptographic recipes and
+    primitives to Python developers
+  package_url: https://pypi.org/cryptography
+  version: 41.0.1
+  license: BSD-3-Clause,Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19850/default_db2ab2702f70e20c272f6ce65251108fb2b8f1ea.png
+  detection_source_url: cloud-media-livestream/keypublisher/requirements.txt
+  detection_source: privateca/snippets/requirements-test.txt
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-06-15 15:11:37.000000000 Z
+  vulnerabilities:
+  - name: cryptography mishandles SSH certificates
+    cve_id: CVE-2023-38325
+    cve_url: https://github.com/advisories/GHSA-cf7p-gm2m-833m
+    detected_date: Jul 15
+    severity: high
+    first_patched: 41.0.2
+  - name: pyca/cryptography's wheels include vulnerable OpenSSL
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-jm77-qphf-c4w8
+    detected_date: Aug 2
+    severity: low
+    first_patched: 41.0.3
+  - name: Vulnerable OpenSSL included in cryptography wheels
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-v8gr-m533-ghj9
+    detected_date: Sep 22
+    severity: low
+    first_patched: 41.0.4
+- name: django-environ
+  description: Django-environ allows you to utilize 12factor inspired environment
+    variables to configure your Django application
+  package_url: https://pypi.org/django-environ
+  version: 0.10.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20684/default_c0915e70f83a4ff795fa420880db8a76377fceac.png
+  detection_source_url: appengine/flexible/django_cloudsql/requirements.txt
+  detection_source: run/django/requirements.txt
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-06-12 19:09:43.000000000 Z
+- name: earthengine-api
+  description: Earth Engine Python API
+  package_url: https://pypi.org/earthengine-api
+  version: 0.1.358
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20668/default_56e4919d534a15560c38f9eff11f052b565e9bb0.png
+  detection_source_url: people-and-planet-ai/geospatial-classification/requirements.txt
+  detection_source: people-and-planet-ai/weather-forecasting/serving/weather-data/pyproject.toml
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-07-01 14:50:54.000000000 Z
+- name: functools32
+  description: Backport of the functools module from Python 3.2.3 for use on 2.7 and
+    PyPy
+  package_url: https://pypi.org/functools32
+  license: psfrag
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20142/default_e3ea003987b13e5c9b8c9000c748b25a9c0d9ecd.png
+  detection_source: appengine/standard/firebase/firetactoe/requirements.txt
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-04-20 17:43:57.000000000 Z
+- name: google-api-core
+  description: Google API client core library
+  package_url: https://pypi.org/google-api-core
+  version: 2.11.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20073/default_d7fc4eabe57370d13c2a8ad2f7f6bb876c96c66d.png
+  detection_source_url: bigquery-migration/snippets/requirements-test.txt
+  detection_source: monitoring/prometheus/requirements.txt
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-06-01 10:33:47.000000000 Z
+- name: google-api-python-client
+  description: Google API Client Library for Python
+  package_url: https://pypi.org/google-api-python-client
+  version: 1.12.11
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19897/default_4343f8bba4f6051641ffca8b4fbe9b099402c84d.png
+  detection_source_url: appengine/standard/mailgun/requirements-test.txt
+  detection_source: video/transcoder/requirements.txt
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-02-09 20:59:22.000000000 Z
+- name: google-auth
+  description: Google Authentication Library
+  package_url: https://pypi.org/google-auth
+  version: 2.17.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19955/default_1965f66bb5a4d2eb7b31193d7be6d8a9041d02b9.png
+  detection_source_url: appengine/standard/firebase/firenotes/backend/requirements.txt
+  detection_source: storagetransfer/requirements.txt
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-04-21 20:04:07.000000000 Z
+- name: google-auth-oauthlib
+  description: Google Authentication Library
+  package_url: https://pypi.org/google-auth-oauthlib
+  version: 1.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20240/default_8a23a3884b3073b5e1695e2320e46529e60882b3.png
+  detection_source_url: auth/end-user/web/requirements.txt
+  detection_source: endpoints/getting-started/requirements.txt
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-06-19 15:09:36.000000000 Z
+- name: google-cloud-bigquery
+  description: Google BigQuery API client library
+  package_url: https://pypi.org/google-cloud-bigquery
+  version: 3.10.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20122/default_480d32900476f532eb2077c5e672b5cb60c86e48.png
+  detection_source_url: appengine/standard_python3/bigquery/requirements.txt
+  detection_source: securitycenter/snippets/requirements-test.txt
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-06-14 17:13:49.000000000 Z
+- name: google-cloud-logging
+  description: Stackdriver Logging API client library
+  package_url: https://pypi.org/google-cloud-logging
+  version: 3.5.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20551/default_2bd6b1bbea25e0422bf129a726728cd8e73433f2.png
+  detection_source_url: appengine/standard_python3/bundled-services/blobstore/django/requirements.txt
+  detection_source: run/pubsub/requirements-test.txt
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-04-12 15:58:20.000000000 Z
+- name: google-cloud-pubsub
+  description: Google Cloud Pub/Sub API client library
+  package_url: https://pypi.org/google-cloud-pubsub
+  version: 2.17.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20317/default_5f4e928dbcb1c4db4050881fc2e0229785fc931c.png
+  detection_source_url: appengine/flexible/pubsub/requirements.txt
+  detection_source: run/pubsub/requirements-test.txt
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-06-14 17:13:49.000000000 Z
+- name: google-cloud-storage
+  description: Google Cloud Storage API client library
+  package_url: https://pypi.org/google-cloud-storage
+  version: 2.9.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19996/default_1ae269f6aa26d7008f18ed620309f6ae89bbfa12.png
+  detection_source_url: appengine/flexible/storage/requirements-test.txt
+  detection_source: video/transcoder/requirements-test.txt
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-06-13 18:18:12.000000000 Z
+- name: googleapis-common-protos
+  description: Common protobufs used in Google APIs
+  package_url: https://pypi.org/googleapis-common-protos
+  version: 1.59.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20036/default_a7a70921d2d3189665c78015850dc968f41705a1.png
+  detection_source_url: monitoring/opencensus/requirements.txt
+  detection_source: monitoring/prometheus/requirements.txt
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-07-01 14:50:24.000000000 Z
+- name: grpcio
+  description: HTTP/2-based RPC framework
+  package_url: https://pypi.org/grpcio
+  version: 1.56.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19903/default_1d0eb6da6bdd342bb15f73d8f1721516ebacd1dc.png
+  detection_source_url: bigquery/datalab-migration/requirements.txt
+  detection_source: video/transcoder/requirements.txt
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-07-02 19:48:14.000000000 Z
+- name: grpcio-tools
+  description: Protobuf code generator for gRPC
+  package_url: https://pypi.org/grpcio-tools
+  version: 1.56.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20003/default_87268cab0d3a3b3acf3aa0576d4b114b8e4c2521.png
+  detection_source_url: endpoints/bookstore-grpc-transcoding/requirements.txt
+  detection_source: endpoints/getting-started-grpc/requirements.txt
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-07-02 19:47:56.000000000 Z
+- name: httplib2
+  description: A comprehensive HTTP client library
+  package_url: https://pypi.org/httplib2
+  version: 0.22.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19914/default_37434feaacace26053e41d6e4802560af16ebe44.png
+  detection_source_url: appengine/standard/mailgun/requirements.txt
+  detection_source: appengine/standard/mailgun/requirements.txt
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-03-25 17:27:25.000000000 Z
+- name: ipykernel
+  description: IPython Kernel for Jupyter
+  package_url: https://pypi.org/ipykernel
+  version: 6.23.3
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20282/default_23dd4b159eaa2c5b085470b39bf396fcc6cf2c38.png
+  detection_source_url: people-and-planet-ai/land-cover-classification/requirements-test.txt
+  detection_source: people-and-planet-ai/weather-forecasting/tests/training_tests/requirements-test.txt
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-07-01 15:25:52.000000000 Z
+- name: mock
+  description: Rolling backport of unittest.mock for all Pythons
+  package_url: https://pypi.org/mock
+  version: 3.0.5
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19876/default_8902c10687fbcd6273bdbe119fff40fa1180763f.png
+  detection_source_url: appengine/standard/endpoints-frameworks-v2/echo/requirements-test.txt
+  detection_source: bigquery-datatransfer/snippets/requirements-test.txt
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-02-09 20:59:22.000000000 Z
+- name: plotly
+  description: An open-source, interactive graphing library for Python
+  package_url: https://pypi.org/plotly
+  version: 5.15.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20062/default_7d86b2789b7e98a881e37db483c09c6a1aa3e995.png
+  detection_source_url: people-and-planet-ai/land-cover-classification/requirements.txt
+  detection_source: people-and-planet-ai/weather-forecasting/tests/predictions_tests/requirements.txt
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-06-12 14:23:16.000000000 Z
+- name: py
+  description: Library with cross-python path
+  package_url: https://pypi.org/py
+  version: 1.11.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19962/default_61e35171bd9c0e5c5b88b2e4221ca242576ad8c0.png
+  detection_source_url: compute/client_library/requirements-test.txt
+  detection_source: compute/client_library/requirements-test.txt
+  last_updated_by: Maciej Strzelczyk
+  last_updated_on: 2021-12-01 16:11:29.000000000 Z
+  vulnerabilities:
+  - name: 'ReDoS in py library when used with subversion '
+    cve_id: CVE-2022-42969
+    cve_url: https://github.com/advisories/GHSA-w596-4wvx-j9j6
+    detected_date: Oct 18
+    severity: high
+    first_patched: 
+- name: pytest-django
+  description: A Django plugin for pytest
+  package_url: https://pypi.org/pytest-django
+  version: 4.5.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20505/default_0a4b1ff56fc84a423341df2dee7f169b1171f64d.png
+  detection_source_url: appengine/flexible/django_cloudsql/requirements-test.txt
+  detection_source: run/django/requirements-test.txt
+  last_updated_by: WhiteSource Renovate
+  last_updated_on: 2022-03-03 22:32:51.000000000 Z
+- name: pytest-xdist
+  description: Pytest xdist plugin for distributed testing and loop-on-failing modes
+  package_url: https://pypi.org/pytest-xdist
+  version: 3.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20307/default_506725603cd9affb22ffa36e3939310b26cbf952.png
+  detection_source_url: compute/client_library/requirements-test.txt
+  detection_source: retail/interactive-tutorials/search/requirements-test.txt
+  last_updated_by: Sampath Kumar
+  last_updated_on: 2023-06-07 22:56:13.000000000 Z
+- name: python-dateutil
+  description: Extensions to the standard Python datetime module
+  package_url: https://pypi.org/python-dateutil
+  version: 2.8.2
+  license: NRL
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19833/default_58dbe7b4d7ec447b62773209af0f9a31bbabf5bd.png
+  detection_source_url: dialogflow-cx/requirements.txt
+  detection_source: functions/v2/tips-avoid-infinite-retries/requirements.txt
+  last_updated_by: Soheila Zangeneh
+  last_updated_on: 2023-02-08 03:12:41.000000000 Z
+- name: requests
+  description: Python HTTP for Humans
+  package_url: https://pypi.org/requests
+  version: 2.31.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19826/default_d7c684bf2673f008a9f02ac93901229297a22d7e.png
+  detection_source_url: appengine/flexible/analytics/requirements.txt
+  detection_source: video/stitcher/requirements-test.txt
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-06-12 08:04:13.000000000 Z
+- name: requests-futures
+  description: Asynchronous Python HTTP for Humans
+  package_url: https://pypi.org/requests-futures
+  version: 1.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20103/default_bd24d3ca620f87100890811f569dec00db930a0f.png
+  detection_source_url: appengine/standard/migration/urlfetch/async/requirements.txt
+  detection_source: appengine/standard/migration/urlfetch/async/requirements.txt
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-04-20 17:43:57.000000000 Z
+- name: requests-toolbelt
+  description: A utility belt for advanced users of python-requests
+  package_url: https://pypi.org/requests-toolbelt
+  version: 0.10.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20128/default_3146a05cf4dd77d8b50cff25709373c081ac5053.png
+  detection_source_url: appengine/standard/analytics/requirements.txt
+  detection_source: iap/requirements.txt
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-04-20 17:43:57.000000000 Z
+- name: responses
+  description: A utility library for mocking out the `requests` Python library
+  package_url: https://pypi.org/responses
+  version: 0.23.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20167/default_7c58f8c011d1676d1d010f43fec5e502e542d0a5.png
+  detection_source_url: appengine/flexible/analytics/requirements-test.txt
+  detection_source: functions/tips-connection-pooling/requirements-test.txt
+  last_updated_by: Karl Weinmeister
+  last_updated_on: 2023-04-21 15:34:12.000000000 Z
+- name: retrying
+  description: Retrying
+  package_url: https://pypi.org/retrying
+  version: 1.3.4
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20013/default_70556f9333e0a39c148cac0c36ca24235943f270.png
+  detection_source_url: appengine/flexible/websockets/requirements-test.txt
+  detection_source: monitoring/snippets/v3/alerts-client/requirements-test.txt
+  last_updated_by: Mend Renovate
+  last_updated_on: 2022-12-01 20:57:29.000000000 Z
+- name: rsa
+  description: Pure-Python RSA implementation
+  package_url: https://pypi.org/rsa
+  version: '4.5'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20021/default_faea030602e3d71554c57e6fc53190ac830da00d.png
+  detection_source_url: appengine/standard/endpoints-frameworks-v2/echo/requirements.txt
+  detection_source: appengine/standard/migration/ndb/redis_cache/requirements.txt
+  last_updated_by: navinger
+  last_updated_on: 2019-01-07 21:37:14.000000000 Z
+  vulnerabilities:
+  - name: Timing attacks in python-rsa
+    cve_id: CVE-2020-25658
+    cve_url: https://github.com/advisories/GHSA-xrx6-fmxq-rjj2
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: '4.7'
+- name: sendgrid
+  description: Twilio SendGrid library for Python
+  package_url: https://pypi.org/sendgrid
+  version: 6.10.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20325/default_0c9409de2ef424482d14f84cb95c9dab5c399c85.png
+  detection_source_url: appengine/standard/sendgrid/requirements.txt
+  detection_source: appengine/standard/sendgrid/requirements.txt
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-03-25 17:17:07.000000000 Z
+- name: six
+  description: Python 2 and 3 compatibility utilities
+  package_url: https://pypi.org/six
+  version: 1.16.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19827/default_74a61b43bdb9fc0cba2978316b9976f43545029b.png
+  detection_source_url: composer/rest/requirements.txt
+  detection_source: media_cdn/requirements.txt
+  last_updated_by: WhiteSource Renovate
+  last_updated_on: 2021-05-05 17:48:00.000000000 Z
+- name: slackclient
+  description: Slack API clients for Web API and RTM API
+  package_url: https://pypi.org/slackclient
+  version: 2.9.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20040/default_77eeab9aff24a2723c1f19fed32966a15b17d874.png
+  detection_source_url: functions/billing/requirements.txt
+  detection_source: functions/slack/requirements.txt
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-05-24 20:49:33.000000000 Z
+- name: termcolor
+  description: ANSII Color formatting for output in terminal
+  package_url: https://pypi.org/termcolor
+  version: 2.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20014/default_9e735547ab71630330a9e635a78e5cedca9ba560.png
+  detection_source_url: dialogflow/requirements.txt
+  detection_source: dialogflow/requirements.txt
+  last_updated_by: rogers140
+  last_updated_on: 2023-07-12 17:57:59.000000000 Z
+- name: torch
+  description: Tensors and Dynamic neural networks in Python with strong GPU acceleration
+  package_url: https://pypi.org/torch
+  version: 1.13.1
+  license: BSD-1-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20038/default_a7a70921d2d3189665c78015850dc968f41705a1.png
+  detection_source_url: people-and-planet-ai/weather-forecasting/serving/weather-model/pyproject.toml
+  detection_source: people-and-planet-ai/weather-forecasting/serving/weather-model/pyproject.toml
+  last_updated_by: David Cavazos
+  last_updated_on: 2023-03-13 22:25:07.000000000 Z
+- name: websocket-client
+  description: WebSocket client for Python. hybi13 is supported
+  package_url: https://pypi.org/websocket-client
+  version: 1.2.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19910/default_67f813d4aac73d024261bcfded6ef2b918e384a0.png
+  detection_source_url: appengine/flexible/websockets/requirements-test.txt
+  detection_source: appengine/flexible_python37_and_earlier/websockets/requirements-test.txt
+  last_updated_by: WhiteSource Renovate
+  last_updated_on: 2021-12-07 19:49:14.000000000 Z
+- name: wheel
+  description: A built-package format for Python
+  package_url: https://pypi.org/wheel
+  version: 0.40.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19889/default_7182952cb92ae36151a754e2592ac68e6e6340df.png
+  detection_source_url: kubernetes_engine/django_tutorial/requirements.txt
+  detection_source: kubernetes_engine/django_tutorial/requirements.txt
+  last_updated_by: Mend Renovate
+  last_updated_on: 2023-04-17 17:13:10.000000000 Z
